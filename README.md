@@ -10,7 +10,7 @@ Chicken:
 
 Highways:
 * Spawn ✔
-* Dynamic ✘
+* Dynamic ❌
 
 Trees and Rocks:
 * Randomly Spawn on Grass ✔
