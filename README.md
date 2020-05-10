@@ -33,6 +33,14 @@ Currently working on Checkpoint 3
 * Trees and Rocks randomly spawn ✔
 * Block Way of Chicken ❌
 
+### Extras ✔
+
+* Score Keeper ✔
+* Chicken is squished when knocked by vehicle ✔
+* Game Over Screen ✔
+
+
+
 ### Legend:
 
 * ✔ - Complete
