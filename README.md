@@ -30,6 +30,7 @@ Currently working on Checkpoint 3
 * Logs ▪▪▪
 
 **Grass:**
+* Spawns ✔
 * Trees and Rocks randomly spawn ✔
 * Block Way of Chicken ❌
 
