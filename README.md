@@ -42,4 +42,4 @@ Currently working on Checkpoint 3
 ### To See Current Progress:
 * Open up Checkpoint2 Files
 * Open with Unreal Engine
-* Open 'testLevel' level and play
+* Open 'checkpoint2' level and play
