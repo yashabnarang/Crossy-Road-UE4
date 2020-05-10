@@ -26,8 +26,8 @@ Currently working on Checkpoint 3
 * Train Goes Along Track ❌
 
 **Rivers:**
-* Spawns ▪▪▪
-* Logs ❌
+* Spawns ✔
+* Logs ▪▪▪
 
 **Grass:**
 * Trees and Rocks randomly spawn ✔
