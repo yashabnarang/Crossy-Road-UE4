@@ -26,10 +26,11 @@ Currently working on Checkpoint 3
 * Train Goes Along Track ❌
 
 **Rivers:**
-* Spawns ▪▪▪
-* Logs ❌
+* Spawns ✔
+* Logs ▪▪▪
 
 **Grass:**
+* Spawns ✔
 * Trees and Rocks randomly spawn ✔
 * Block Way of Chicken ❌
 
