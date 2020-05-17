@@ -5,3 +5,7 @@ By: Yashab Narang
 * Open up FinalVersion Files
 * Open with Unreal Engine
 * Open 'CrossyRoadFinal.umap' in content root folder and play
+
+### Secret Cheat:
+* When moving with WASD, hold corresponding arrow key to move twice as fast 
+* ex) hold W with up arrow key
