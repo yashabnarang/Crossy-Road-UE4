@@ -9,3 +9,8 @@ By: Yashab Narang
 ### Secret Cheat:
 * When moving with WASD, hold corresponding arrow key to move twice as fast 
 * ex) hold W with up arrow key
+
+### Fixes Needed:
+* Vehicles must be centered to their lane
+* Add Coin System
+* Add Assets for Railroad
